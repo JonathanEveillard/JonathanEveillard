@@ -65,7 +65,13 @@
 
 ###
 
-<p align="center">You know me! I'm Passionate  Student who is interested  in the vast knowledge of technology and it's advancement | Empowering Student Success through AI and Innovative Tech Solutions. 👨🏿‍💻</p>
+<p align="center">Hi there!👋 I'm Jonathan Eveillard, I'm actively engaged in several engineering societies and projects, always striving to build impactful solutions through innovative technology.
+
+With experience in full-stack development using Next.js, Python, and various front-end frameworks like Tailwind and React, I love bringing ideas to life through code. Some of my recent projects include Stulligent, an AI-powered assistant for first-year students, and a P2P File System, a decentralized file-sharing platform.
+
+As a Technical Manager for the Carleton Systems and Computer Engineering Society, I assist with tech troubleshooting and organize workshops and hackathons.
+
+My primary interests lie in AI, machine learning, building scalable, efficient applications, Business including it's Product Management. I’m constantly learning and currently diving into React Native and Swift to expand my mobile development skillset. You know me! I'm a Passionate Student who is interested in the vast knowledge of technology and it's advancement | Empowering Student Success through AI and Innovative Tech Solutions. 👨🏿‍💻 </p>
 
 ###
 
