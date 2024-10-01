@@ -1,63 +1,49 @@
-## Hi there 👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<!--
-**JonathanEveillard/JonathanEveillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...# Hi there, I'm Jonathan Eveillard! 👋
+###
 
-Welcome to my GitHub profile! I'm a passionate software developer, student, and technical manager focused on building meaningful projects that make a positive impact.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 🔭 I’m currently working on [Stulligent](https://github.com/yourrepo), an AI chatbot designed to help first-year students with academics and campus life.
-- 🌱 I'm learning **Next.js** and sharpening my skills with **TSX**.
-- 💡 Recently worked on the **Ciena P2P File Sharing Challenge**, focusing on decentralized file sharing using Python and Next.js.
-- 💼 Technical Manager at the **System and Computer Engineering Society**.
-- 🎓 Software Engineering Fellow at **Headstarter**.
-- ⚡ Fun fact: I enjoy building personal projects, exploring new technologies, and contributing to open-source.
+###
 
-## 🛠 Technologies & Tools
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TSX](https://img.shields.io/badge/-TSX-blue?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🚀 Projects
+###
 
-### [Stulligent](https://github.com/yourrepo)
-An AI chatbot for first-year students to get academic advice, personal support, and access to campus resources. Built with **Next.js**, **TSX**, and **AI-powered NLP**.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### [Ciena P2P File Sharing Challenge](https://github.com/yourrepo)
-A decentralized peer-to-peer file sharing platform using **Python** for the backend and **Next.js** for the frontend.
+###
 
-### [Your Other Project](https://github.com/yourrepo)
-A short description of another awesome project you've worked on!
+<br clear="both">
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Jonathan's GitHub stats" />
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I built Stulligent: A chatbot for first-year students](https://dev.to/jonathaneveillard/how-i-built-stulligent)
-- [Why Next.js is my favorite web development framework](https://dev.to/jonathaneveillard/nextjs-favorite-framework)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathaneveillard/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jonathaneveillard)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white)](https://yourportfolio.com)
-
-
--->
+###
