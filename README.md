@@ -68,3 +68,9 @@
 <p align="center">You know me! I'm Passionate  Student who is interested  in the vast knowledge of technology and it's advancement | Empowering Student Success through AI and Innovative Tech Solutions. 👨🏿‍💻</p>
 
 ###
+
+<div align="center">
+  <a href="CV-2025_[Carleton-Jonathan_Eveillard.git].pdf" target="_blank">
+    <button style="padding: 10px 20px; background-color: #06B6D4; color: white; border-radius: 5px; border: none;">View My CV</button>
+  </a>
+</div>
