@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsahrahm.medium.com%2Fon-intimidation-and-the-blank-page-333ff1f6b8b4%3Fsource%3Drss------writers_on_writing-5&psig=AOvVaw1dBsggShCsMEAoM-lSfFyH&ust=1738820366106000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiGk-boq4sDFQAAAAAdAAAAABAc" width="95%" height="100%" />
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*Y_zkGdeHPs85XOHmlR2kow.gif" width="95%" height="100%" />
 </div>
 
 ###
