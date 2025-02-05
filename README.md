@@ -14,10 +14,11 @@
 <br clear="both">
 
 <div align="center">
-  <p>Let's Connect!</p>
+ 
   <a href="https://www.linkedin.com/in/jonathaneve/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+   <h2>Let's Connect</h2>
 </div>
 
 ###
