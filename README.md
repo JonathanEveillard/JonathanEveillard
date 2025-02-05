@@ -1,3 +1,31 @@
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/t89J0IcSiIEKY/giphy.gif?cid=6c09b952og6bzzi622a1loduiunj2btb2ry04gu6rejnn7hx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonathaneve/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="left">Who is Jonathan? 👨🏿</h1>
+
+###
+
+👨🏾‍💻 Computer Science Student at Carleton University<br><br>🌱 Currently learning Ruby/Rails 🚂<br><br>📫 Reach me at Jonaeve50@gmail.com<br><br>🔭 Searching | internships <br><br>🛸 Take a look at my website https://Jonathaneveillard.me
+
+
 ## 🛠️ Technical Skills
 
 | **Languages** | **Frameworks & Libraries** | **Tools** |
