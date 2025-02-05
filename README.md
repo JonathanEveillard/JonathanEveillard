@@ -23,7 +23,7 @@
 
 ###
 
-•👨🏾‍💻 Computer Science Student at Carleton University<br><br>•🌱 Currently learning Ruby/Rails 🚂<br><br>•📫 Reach me at Jonaeve50@gmail.com<br><br>•🔭 Searching | internships <br><br>•🛸 Take a look at my website https://Jonathaneveillard.me
+●  👨🏾‍💻 Computer Science Student at Carleton University<br><br>●  🌱 Currently learning Ruby/Rails 🚂<br><br>●  📫 Reach me at Jonaeve50@gmail.com<br><br>●  🔭 Searching | internships <br><br>●  🛸 Take a look at my website https://Jonathaneveillard.me
 
 <hr style="height: 4px; background-color: grey; border: none; margin: 20px 0;">
 
