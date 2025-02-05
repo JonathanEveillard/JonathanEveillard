@@ -1,8 +1,10 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J2bGJ1NGxkdmt2Z3ZiM2xiNTBiZ2luMXhxN2xyMGNweHFxMGl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif" width="95%" height="950" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J2bGJ1NGxkdmt2Z3ZiM2xiNTBiZ2luMXhxN2xyMGNweHFxMGl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gssNZ4EF6c8Simk/giphy.gif"
+       width="95%" height="500" />
 </div>
+
 
 ###
 
