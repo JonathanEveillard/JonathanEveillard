@@ -1,8 +1,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJjNzltcGExMDB2c2V0ejlmZTg0MDlvZW1lY3FjdTBtcjNpb3k0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif"
-       width="95%" height="400" />
+  <img src="https://media4.giphy.com/media/vi9q6kkhLiJVx3L8TO/giphy.webp?cid=ecf05e47ps94nqw6betozzbjd3hmfh9sijz6jpjijlmzqlvm&ep=v1_gifs_related&rid=giphy.webp&ct=g"
+       width="95%" height="200" />
 </div>
 
 
