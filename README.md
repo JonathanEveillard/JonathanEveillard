@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://github.com/xsachax/xsachax/blob/main/cyberpunk.gif" width="90%"  />
+  <img height="200" src="https://github.com/xsachax/xsachax/blob/main/cyberpunk.gif" width="95%"  />
 </div>
 
 ###
