@@ -34,23 +34,22 @@
 ### 📚 **Reading List** 🚀
 
 ### 🔹 **Mechatronics Books**
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px;">
-  <div style="flex: 0 1 200px; text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1 1 250px; text-align: center; max-width: 300px;">
     <a href="https://www.amazon.com/Introduction-Mechatronics-Measurement-Systems/dp/0073373894" target="_blank">
       <img src="https://m.media-amazon.com/images/I/41B2XjYkx8L._SX398_BO1,204,203,200_.jpg" width="150" height="200" alt="Introduction to Mechatronics and Measurement Systems">
     </a>
     <p><strong>Introduction to Mechatronics and Measurement Systems</strong> - by William Bolton</p>
   </div>
 
-  <div style="flex: 0 1 200px; text-align: center;">
+  <div style="flex: 1 1 250px; text-align: center; max-width: 300px;">
     <a href="https://www.amazon.com/Mechatronics-Principles-Applications-Wilfried-Kutkut/dp/1133132277" target="_blank">
       <img src="https://m.media-amazon.com/images/I/51tMI-Wt0FL._SX386_BO1,204,203,200_.jpg" width="150" height="200" alt="Mechatronics: Principles and Applications">
     </a>
     <p><strong>Mechatronics: Principles and Applications</strong> - by Godfrey C. Onwubolu</p>
   </div>
 
-  <div style="flex: 0 1 200px; text-align: center;">
+  <div style="flex: 1 1 250px; text-align: center; max-width: 300px;">
     <a href="https://www.amazon.com/Mechatronics-Foundation-Wilfried-Kutkut/dp/0313718250" target="_blank">
       <img src="https://m.media-amazon.com/images/I/4100hElz50L._SX358_BO1,204,203,200_.jpg" width="150" height="200" alt="Mechatronics: A Foundation Course">
     </a>
