@@ -32,93 +32,101 @@
 <hr style="height: 4px; background-color: grey; border: none; margin: 20px 0;">
 
 ### 📚 **Reading List** 🚀
+
 ### 🔹 **Mechatronics Books**
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 1 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/Introduction-Mechatronics-Measurement-Systems/dp/0073373894" target="_blank">
       <img src="https://m.media-amazon.com/images/I/41B2XjYkx8L._SX398_BO1,204,203,200_.jpg" width="150" height="200" alt="Introduction to Mechatronics and Measurement Systems">
     </a>
     <p><strong>Introduction to Mechatronics and Measurement Systems</strong> - by William Bolton</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> Read</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">✅</span> <!-- Status Emoji -->
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 2 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/Mechatronics-Principles-Applications-Wilfried-Kutkut/dp/1133132277" target="_blank">
       <img src="https://m.media-amazon.com/images/I/51tMI-Wt0FL._SX386_BO1,204,203,200_.jpg" width="150" height="200" alt="Mechatronics: Principles and Applications">
     </a>
     <p><strong>Mechatronics: Principles and Applications</strong> - by Godfrey C. Onwubolu</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> In Progress</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">🔄</span> <!-- Status Emoji -->
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 3 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/Mechatronics-Foundation-Wilfried-Kutkut/dp/0313718250" target="_blank">
       <img src="https://m.media-amazon.com/images/I/4100hElz50L._SX358_BO1,204,203,200_.jpg" width="150" height="200" alt="Mechatronics: A Foundation Course">
     </a>
     <p><strong>Mechatronics: A Foundation Course</strong> - by Godfrey C. Onwubolu</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> Unread</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">❌</span> <!-- Status Emoji -->
   </div>
 </div>
 
 ---
 
 ### 🔹 **System Design Books**
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 1 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/System-Design-Interview-Software-Engineers/dp/0984782800" target="_blank">
       <img src="https://m.media-amazon.com/images/I/41B2XjYkx8L._SX398_BO1,204,203,200_.jpg" width="150" height="200" alt="System Design Interview">
     </a>
     <p><strong>System Design Interview</strong> - by Alex Xu</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> Read</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">✅</span> <!-- Status Emoji -->
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 2 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Architects/dp/1449373321" target="_blank">
       <img src="https://m.media-amazon.com/images/I/51cZtWvAdhL._SX379_BO1,204,203,200_.jpg" width="150" height="200" alt="Designing Data-Intensive Applications">
     </a>
     <p><strong>Designing Data-Intensive Applications</strong> - by Martin Kleppmann</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> In Progress</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">🔄</span> <!-- Status Emoji -->
   </div>
 </div>
 
 ---
 
 ### 🔹 **Engineering & Internship Development Books**
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 1 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/1617293822" target="_blank">
       <img src="https://m.media-amazon.com/images/I/51DTiQK3jHL._SX400_BO1,204,203,200_.jpg" width="150" height="200" alt="The Complete Software Developer's Career Guide">
     </a>
     <p><strong>The Complete Software Developer's Career Guide</strong> - by John Sonmez</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> Unread</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">❌</span> <!-- Status Emoji -->
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 1px solid #ccc; padding: 10px;">
-  <div>
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 20px; border: 2px solid #ccc; padding: 10px; grid-template-rows: auto;">
+  <!-- Book 2 -->
+  <div style="border-right: 2px solid #ccc; padding-right: 10px;">
     <a href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850" target="_blank">
       <img src="https://m.media-amazon.com/images/I/51lHzLVrw7L._SX379_BO1,204,203,200_.jpg" width="150" height="200" alt="Cracking the Coding Interview">
     </a>
     <p><strong>Cracking the Coding Interview</strong> - by Gayle Laakmann McDowell</p>
   </div>
-  <div style="text-align: center;">
-    <p><strong>Status:</strong> Read</p>
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center;">
+    <span style="font-size: 1.5rem;">✅</span> <!-- Status Emoji -->
   </div>
 </div>
