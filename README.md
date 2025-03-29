@@ -27,7 +27,7 @@
 
 ###
 
-●  👨🏾‍💻 Computer Science Student at Carleton University<br><br>●  📫 Reach me at Jonaeve50@gmail.com<br><br>●  🔭 Love to building and being creative, <br><br>●  🛸 Take a look at my website [Comming Soon]
+●  👨🏾‍💻 Computer Science Student at Carleton University<br><br>●  📫 Reach me at Jonathaneveillard@cmail.carleton.ca<br><br>●  🔭 Love to building and being creative, <br><br>●  🛸 Take a look at my website [Comming Soon]
 
 <hr style="height: 4px; background-color: grey; border: none; margin: 20px 0;">
 
