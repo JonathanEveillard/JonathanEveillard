@@ -1,4 +1,4 @@
-`<br clear="both">
+<br clear="both">
 
 <div align="center">
   <img src="https://media.tenor.com/B0lOruU9CU0AAAAd/einar-vinland-saga.gif"
