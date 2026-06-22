@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://media.tenor.com/B0lOruU9CU0AAAAd/einar-vinland-saga.gif"
+  <img src="https://media.giphy.com/media/pJTNMn3P8tjWEGs7fh/giphy.gif"
        width="95%" height="400" />
 </div>
 
@@ -13,7 +13,7 @@
 
 - 🔭 I'm building [Stacknote](https://github.com/JonathanEveillard/stacknote), a self hosted encrypted personal vault  AES-256-GCM, WireGuard mesh, no cloud, no telemetry
 
-- 🛸 Maintaining [ATLAS](https://github.com/JonathanEveillard/JonathanEveillard), a living infrastructure as code guide for self-hosting your own cloud
+- 🛸 Maintaining [Atlas](https://github.com/JonathanEveillard/Atlas_Project), a living infrastructure as code guide for self-hosting your own cloud
 
 - 📫 Reach me at **jonaeve50@gmail.com**
 
@@ -262,4 +262,3 @@
 </tbody>
 </table>
 </div>
-`
