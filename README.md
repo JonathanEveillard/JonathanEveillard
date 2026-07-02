@@ -257,7 +257,7 @@
     </a>
   </td>
   <td align="center" style="padding: 12px;">Docker</td>
-  <td align="center" style="padding: 12px;">✅ Certified</td>
+  <td align="center" style="padding: 12px;"> Certified</td>
 </tr>
 </tbody>
 </table>
